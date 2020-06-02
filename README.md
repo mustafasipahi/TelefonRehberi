@@ -1,6 +1,6 @@
 # TelefonRehberi
 
-### Projeni Özeti
+### Projenin Özeti
 
 Bu proje JAVA Programlama Dili ile başlangıç seviyesinde yazılmış bir telefon rehberi uygulamasıdır.
 MYSQL Veri Tabanına bağlanarak kayıtlı olan kullanıcıları listelemektedir.
